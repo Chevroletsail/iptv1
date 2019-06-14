@@ -1,33 +1,54 @@
 #EXTM3U
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Zee_News/Zee_News.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/News_Nation/News_Nation.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/News_24/News_24.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/India_TV/India_TV.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/ABP_News_India/ABP_News_India.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/IBN_7/IBN_7.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/NDTV_India/NDTV_India.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Colors_HD/Colors_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Sony_HD/Sony_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/History_18_Hindi/History_18_Hindi.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD.m3u8
-#EXTINF:-1,http://jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD.m3u8
-#EXTINF:-1,http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
-#EXTINF:-1,Pogo_Hindi http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_800.m3u8
-#EXTINF:-1,Nick_Hindi http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_800.m3u8
-#EXTINF:-1,Nick_Junior http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8
-#EXTINF:-1,sonic_Hindi http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800.m3u8
+#EXTINF:-1,Zee News
+http://jiotv.live.cdn.jio.com/Zee_News/Zee_News.m3u8
+#EXTINF:-1,http://News Nation
+jiotv.live.cdn.jio.com/News_Nation/News_Nation.m3u8
+#EXTINF:-1,http://News 24
+jiotv.live.cdn.jio.com/News_24/News_24.m3u8
+#EXTINF:-1,India TV
+http://jiotv.live.cdn.jio.com/India_TV/India_TV.m3u8
+#EXTINF:-1,ABP News http:jiotv.live.cdn.jio.com/ABP_News_India/ABP_News_India.m3u8
+#EXTINF:-1,IBN 7
+http://jiotv.live.cdn.jio.com/IBN_7/IBN_7.m3u8
+#EXTINF:-1,Aaj Tak
+http://jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD.m3u8
+#EXTINF:-1,MTV Beats HD
+http://jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD.m3u8
+#EXTINF:-1,NDTV India
+http://jiotv.live.cdn.jio.com/NDTV_India/NDTV_India.m3u8
+#EXTINF:-1,And Picture HD
+http://jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD.m3u8
+#EXTINF:-1,Ten3 HD
+http://jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD.m3u8
+#EXTINF:-1,Sony Max HD
+http://jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD.m3u8
+#EXTINF:-1, Colours HD
+http://jiotv.live.cdn.jio.com/Colors_HD/Colors_HD.m3u8
+#EXTINF:-1,Sony HD
+http://jiotv.live.cdn.jio.com/Sony_HD/Sony_HD.m3u8
+#EXTINF:-1,Zee TV
+http://jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD.m3u8
+#EXTINF:-1,MTV HD Plus
+http://jiotv.live.cdn.jio.com/MTV_HD_Plus/MTV_HD_Plus.m3u8
+#EXTINF:-1,And TV HD
+http://jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD.m3u8
+#EXTINF:-1,Sony BBC
+http://jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD.m3u8
+#EXTINF:-1,Sony SAB HD
+http://jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD.m3u8
+#EXTINF:-1, History 18 Hindi
+http://jiotv.live.cdn.jio.com/History_18_Hindi/History_18_Hindi.m3u8
+#EXTINF:-1,Jio Bollywood Classic HD
+http://jiotv.live.cdn.jio.com/Jio_Bollywood_Classic_HD/Jio_Bollywood_Classic_HD.m3u8
+#EXTINF:-1,Cartoon Network Hindi
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8
+#EXTINF:-1,Pogo Hindi
+http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_800.m3u8
+#EXTINF:-1,Nick Hindi http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_800.m3u8
+#EXTINF:-1,Nick Junior http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8
+#EXTINF:-1,sonic Hindi http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800.m3u8
 #EXTINF:-1,Movies Ok
 http://hotstar.live.cdn.jio.com/Movies_OK/Movies_OK.m3u8
 #EXTINF:-1,Star Gold HD
